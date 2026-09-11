@@ -9,5 +9,6 @@ namespace Project_1.Data
         {
         }
         public DbSet<Employee> Employees { get; set; }
+
     }
 }
